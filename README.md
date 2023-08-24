@@ -1,3 +1,8 @@
+*Quick note from d0x360, clipto development team member.
+Development will continue on Clipto shortly, we just have some behind the scenes items to attend to first.  keep sending bug reports and suggestions.  If you dont get a response dont worry all will be addressed after "housekeeping" is complete.
+
+Thank you for using Clipto and rest assured it will remain the best clipboard manager and note taking app available across multiple platforms.
+
 __Clipto__ is cross-platform, community driven Clipboard and Notes app with a focus on speed and productivity.
 
 - Official Website: https://clipto.pro/
